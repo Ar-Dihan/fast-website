@@ -1,0 +1,50 @@
+p{
+    color: crimson;
+    background-color: darkgoldenrod;
+    height: 50px;
+    width: 500px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: darkgoldenrod;
+    background-color:crimson ;
+    border: 7px solid cyan;
+}
+img{
+    height: 75%;
+    width: 20%;
+}
+#chutki{
+    color: darkblue;
+    background-color: darkgrey;
+    font-size: large;
+    height: 30%;
+    width: 30%;
+}
+.ball{
+    color: red;
+}
+.lolo{
+    color: darkred;
+    font-size: 45px;
+    border: 5px solid crimson;
+    border-radius: 10px;
+
+}
+.blog{
+    color:black;
+    background-color: rgba(20, 241, 205, 0.918);
+    margin: 20px;
+    border:8px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    width: 30%;
+    text-align: justify;
+}
+.kp{
+    color: brown;
+}
+.kp:hover{
+    color: chartreuse;
+}
